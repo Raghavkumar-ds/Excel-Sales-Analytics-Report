@@ -124,25 +124,10 @@ Target Gap % = DIVIDE([Target Gap], [Target Sales], 0)
  
 ### 5. 🎨 Conditional Formatting — Visual Storytelling
 Applied conditional formatting to make reports scannable and insight-rich:
-- **Color scales** (gold → dark) on sales figures to highlight top performers
+- **Colour scales** (gold → dark) on sales figures to highlight top performers
 - **Red fills** on all negative Target Gap % values
 - **Data bars** for quick visual comparison across rows
 - Icon sets for YoY performance indicators
----
- 
-## 📂 Project Structure
- 
-```
-atliq-excel-sales-analytics/
-│
-├── 📄 Customer_Performance_Report.xlsx
-├── 📄 New_Product_Sales_Performance_Report.xlsx
-├── 📄 Performance_vs_Target_Report.xlsx
-├── 📄 Top_5_Country_Sales_Performance_Analysis.xlsx
-├── 📄 Top_10_Product_Analysis_Report.xlsx
-│
-└── 📖 README.md
-```
  
 ---
  
@@ -181,20 +166,7 @@ atliq-excel-sales-analytics/
  
 ---
  
-## 👤 Author
- 
-**[Your Name]**  
-Aspiring Data Analyst | Excel • SQL • Power BI  
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/yourusername)
- 
----
- 
 ## ⭐ If you found this helpful...
  
 Give this repo a ⭐ — it helps others discover it and motivates me to keep building!
  
----
- 
-*Data source: AtliQ Hardware's internal sales reports | All values in USD*
