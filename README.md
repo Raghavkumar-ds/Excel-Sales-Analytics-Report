@@ -1,6 +1,6 @@
 # 📊 AtliQ Hardwares — Excel Sales Analytics Project
  
-> **A complete end-to-end sales analytics solution built entirely in Microsoft Excel**, transforming raw business data into actionable insights using Power Query, Data Modeling, Power Pivot, DAX, and Conditional Formatting.
+> **A complete end-to-end sales analytics solution built entirely in Microsoft Excel**, transforming raw business data into actionable insights using Power Query, Data Modelling, Power Pivot, DAX, and Conditional Formatting.
  
 ---
  
@@ -8,13 +8,13 @@
  
 AtliQ Hardwares is a global hardware company selling products across **23+ countries** through **70+ customers** ranging from Amazon and Flipkart to regional brick-and-mortar chains.
  
-This project analyzes **three fiscal years (2019–2021)** of sales data to answer critical business questions:
+This project analyses **three fiscal years (2019–2021)** of sales data to answer critical business questions:
  
 - 📈 Which customers drove the most revenue — and who grew the fastest?
 - 🌍 Which markets are underperforming against targets?
 - 🛒 What are the best-selling products?
 - 🆕 How did new product launches perform in 2021?
-**Total 2021 Net Sales Analyzed: $598.88 Million across all markets**
+**Total 2021 Net Sales Analysed: $598.88 Million across all markets**
  
 ---
  
@@ -32,7 +32,7 @@ This project analyzes **three fiscal years (2019–2021)** of sales data to answ
  
 ## 🔍 Key Insights
  
-### 🏆 Top Customers (2021)
+### 🏆 Top Customers (2021)[Customer Performance Report.pdf](https://github.com/Raghavkumar-ds/Excel-Sales-Analytics-Report/blob/main/Customer%20Performance%20Report.pdf)
 | Customer | 2021 Net Sales | Growth vs 2020 |
 |----------|---------------|----------------|
 | Amazon | $82.09 M | 218.9% |
@@ -45,7 +45,7 @@ This project analyzes **three fiscal years (2019–2021)** of sales data to answ
  
 ---
  
-### 🌍 Top 5 Countries (2021)
+### 🌍 Top 5 Countries (2021)[Top 5 Countries Sales Performance Report.pdf](https://github.com/Raghavkumar-ds/Excel-Sales-Analytics-Report/blob/main/Top%205%20Country%20Sales%20Performance%20Analysis%20Report.pdf)
 | Rank | Country | Net Sales |
 |------|---------|-----------|
 | 🥇 | India | $241.85 M |
@@ -56,7 +56,7 @@ This project analyzes **three fiscal years (2019–2021)** of sales data to answ
  
 ---
  
-### 🎯 Performance vs Target (2021)
+### 🎯 Performance vs Target (2021)[Performance Vs Target Report.pdf](https://github.com/Raghavkumar-ds/Excel-Sales-Analytics-Report/blob/main/Performance%20vs%20Target%20Report.pdf)
 Every single market **missed its 2021 target**, with a total shortfall of **-$54.94 M (-8.40%)** against a target of $653.82 M.
  
 | Biggest Misses | Gap |
@@ -70,7 +70,7 @@ Every single market **missed its 2021 target**, with a total shortfall of **-$54
  
 ---
  
-### 🆕 New Products - 2021 (Total: $176.16 M)
+### 🆕 New Products - 2021 (Total: $176.16 M)[New Product Sales Performance Report.pdf](https://github.com/Raghavkumar-ds/Excel-Sales-Analytics-Report/blob/main/New%20Product%20Sales%20Performance%20Report.pdf)
 Top performers among the 17 newly launched products:
 - **AQ Qwerty** — $21.98 M
 - **AQ Trigger** — $20.74 M
@@ -79,7 +79,7 @@ Top performers among the 17 newly launched products:
 - **AQ Wi Power Dx3** — $17.25 M
 ---
  
-### 🏅 Top 10 Products (All-Time)
+### 🏅 Top 10 Products (All-Time)[Top 10 Product Analysis Report.pdf](https://github.com/Raghavkumar-ds/Excel-Sales-Analytics-Report/blob/main/Top%2010%20Product%20Analysis%20Report.pdf)
 | Product | Net Sales |
 |---------|-----------|
 | AQ Wi Power Dx1 | $35.57 M |
@@ -173,7 +173,7 @@ atliq-excel-sales-analytics/
  
 ## 💡 Business Value Delivered
  
-✅ Identified fastest-growing customers for prioritized account management  
+✅ Identified fastest-growing customers for prioritised account management  
 ✅ Revealed every market missed 2021 targets — enabling target recalibration  
 ✅ Highlighted $176M+ contributed by new product launches in a single year  
 ✅ Pinpointed top 10 products that drive disproportionate revenue  
@@ -197,4 +197,4 @@ Give this repo a ⭐ — it helps others discover it and motivates me to keep bu
  
 ---
  
-*Data source: AtliQ Hardwares internal sales reports | All values in USD*
+*Data source: AtliQ Hardware's internal sales reports | All values in USD*
